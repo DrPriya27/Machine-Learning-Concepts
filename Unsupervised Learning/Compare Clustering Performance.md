@@ -2,6 +2,8 @@ Contents:-
 
 https://analyticsindiamag.com/a-tutorial-on-various-clustering-evaluation-metrics/
 
+https://www.geeksforgeeks.org/ml-v-measure-for-evaluating-clustering-performance/
+
 There are some metrics, like Homogeneity, Completeness, Adjusted Rand Index, Adjusted Mutual Information, and V-Measure. To compute these metrics, one needs to know the true labels of data-set, so we may test algorithms with classification data-sets to have true labels and then evaluate results.
 
 https://stats.stackexchange.com/questions/95782/what-are-the-most-common-metrics-for-comparing-two-clustering-algorithms-especi
