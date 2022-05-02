@@ -7,7 +7,7 @@ Case 1: When ground truth grouping is unknown
 
    The Silhouette Coefficient s for a single sample is then given as:
    
-   ![image](https://user-images.githubusercontent.com/54790008/166201819-faa9ff3f-8741-4e24-a412-02bdbf3947ce.png)
+                           ![image](https://user-images.githubusercontent.com/54790008/166201819-faa9ff3f-8741-4e24-a412-02bdbf3947ce.png)
 
 
    The Silhouette Coefficient for a set of samples is given as the mean of the Silhouette Coefficient for each sample. It ranges from [-1,1]. The higher      the Silhouette Coefficients (the closer to +1), the more is the separation between clusters. If the value is 0    it indicates that the sample is on or    very close to the decision boundary between two neighboring clusters whereas a negative value indicates that thos    samples might have been assigned to    the wrong cluster.
