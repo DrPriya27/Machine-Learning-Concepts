@@ -1,9 +1,10 @@
 **Case 1: When ground truth grouping is unknown**
+________________________________________________
 
 
 1) **Silhouette score**-  The Silhouette Coefficient is defined for each sample and is composed of two scores:\
-   a: The mean distance between a sample and all other points in the same cluster
-   b: The mean distance beteween a sample and all other points in the next nearest cluster
+   a: The mean distance between a sample and all other points in the same cluster\
+   b: The mean distance beteween a sample and all other points in the next nearest cluster\
 
    The Silhouette Coefficient s for a single sample is then given as:
    
@@ -13,7 +14,7 @@
    The Silhouette Coefficient for a set of samples is given as the mean of the Silhouette Coefficient for each sample. It ranges from [-1,1]. The higher the Silhouette    Coefficients (the closer to +1), the more is the separation between clusters. If the value is 0 it indicates that the sample is on or very close to decision   boundary between two neighboring clusters whereas a negative value indicates that thos samples might have been assigned to the wrong cluster.
    ``` markdown
 Python command from sklearn.metrics import silhouette_score
-```
+    
    
 
 2) **Calinski Harabaz index**- also known as the Variance Ratio Criterion and is based on the principle of variance ratio. The index is the ratio of the sum of between-clusters dispersion and of within-cluster dispersion for all clusters (where dispersion is defined as the sum of distances squared). The higher the index the better is clustering. 
