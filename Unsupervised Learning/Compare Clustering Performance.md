@@ -23,8 +23,10 @@ Python command 'sklearn.metrics import calinski_harabasz_score'
 
 ![image](https://user-images.githubusercontent.com/54790008/166203196-0e2fd897-9dc1-4ad5-b0ea-fe2198295876.png)
 
+Python command 'sklearn.metrics import davies_bouldin_score'
+
     where n is the number of clusters, c i {\displaystyle c_{i}} c_{i} is the centroid of cluster i {\displaystyle i} i, σ i {\displaystyle \sigma _{i}} \sigma _{i} is the average distance of all elements in cluster i {\displaystyle i} i to centroid c i {\displaystyle c_{i}} c_{i}, and d ( c i , c j ) {\displaystyle d(c_{i},c_{j})} d(c_{i},c_{j}) is the distance between centroids c i {\displaystyle c_{i}} c_{i} and c j {\displaystyle c_{j}} c_{j}. Since algorithms that produce clusters with low intra-cluster distances (high intra-cluster similarity) and high inter-cluster distances (low inter-cluster similarity) will have a low Davies–Bouldin index, the clustering algorithm that produces a collection of clusters with the smallest Davies–Bouldin index is considered the best algorithm based on this criterion.
-    Python command 'sklearn.metrics import davies_bouldin_score'
+    
     
 4) **Dunn index**:- The Dunn index aims to identify dense and well-separated clusters. It is defined as the ratio between the minimal inter-cluster distance to maximal intra-cluster distance. For each cluster partition, the Dunn index can be calculated by the following formula
  ![image](https://user-images.githubusercontent.com/54790008/166203111-b1296632-6279-4334-8903-e1c50b56d605.png)
