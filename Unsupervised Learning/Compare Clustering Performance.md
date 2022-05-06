@@ -14,8 +14,7 @@ ________________________________________________
    The Silhouette Coefficient for a set of samples is given as the mean of the Silhouette Coefficient for each sample. It ranges from [-1,1]. The higher the Silhouette    Coefficients (the closer to +1), the more is the separation between clusters. If the value is 0 it indicates that the sample is on or very close to decision   boundary between two neighboring clusters whereas a negative value indicates that thos samples might have been assigned to the wrong cluster.\
 Python command 'sklearn.metrics import silhouette_score'
     
-2) **Calinski Harabaz index**- also known as the Variance Ratio Criterion and is based on the principle of variance ratio. The index is the ratio of the sum of between-clusters dispersion and of within-cluster dispersion for all clusters (where dispersion is defined as the sum of distances squared). The higher the index the better is clustering. 
-
+2) **Calinski Harabaz index**- also known as the Variance Ratio Criterion and is based on the principle of variance ratio. The index is the ratio of the sum of between-clusters dispersion and of within-cluster dispersion for all clusters (where dispersion is defined as the sum of distances squared). The higher the index the better is clustering.\
 Python command 'sklearn.metrics import calinski_harabasz_score'
 
 3) **Davies-Bouldin Index**- This index signifies the average ‘similarity’ between clusters, where the similarity is a measure that compares the distance between clusters with the size of the clusters themselves. a lower Davies-Bouldin index relates to a model with better separation between the clusters. Zero is the lowest possible score. Values closer to zero indicate a better partition
