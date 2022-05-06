@@ -32,7 +32,10 @@ Python command 'sklearn.metrics import calinski_harabasz_score'
  where d(i,j) represents the distance between clusters i and j, and d '(k) measures the intra-cluster distance of cluster k. The inter-cluster distance d(i,j) between two clusters may be any number of distance measures, such as the distance between the centroids of the clusters. Similarly, the intra-cluster distance d '(k) may be measured in a variety ways, such as the maximal distance between any pair of elements in cluster k. Since internal criterion seek clusters with high intra-cluster similarity and low inter-cluster similarity, algorithms that produce clusters with high Dunn index are more desirable.
 
 
-Case 2: When ground truth grouping is known
+
+**Case 2: When ground truth grouping is known**
+________________________________________________
+
 
 1) Homogeneity
 2) Completeness
