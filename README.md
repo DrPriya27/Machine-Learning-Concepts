@@ -11,7 +11,7 @@
   <tr>
     <td class="tg-yw4l">CS6780-Advanced Machine Learning</td>
     <td class="tg-yw4l">Cornell University Spring 2019</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1eG1AF36Wa0EaANandAhrsbC3j04487SH?usp=sharing">
+    <td class="tg-yw4l"><a href="http://www.cs.cornell.edu/courses/cs6780/2019sp/">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
