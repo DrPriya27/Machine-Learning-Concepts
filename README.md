@@ -21,10 +21,30 @@
   </tr>
       
    <tr>
-    <td class="tg-yw4l">CS 5787-Applied Machine Learning</td>
+    <td class="tg-yw4l">CS5787-Applied Machine Learning</td>
     <td class="tg-yw4l">Cornell Tech, Fall 2020 </td>
     <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83">Website<a></td>
   </tr>
+  
+  <tr>
+    <td class="tg-yw4l">CS229- Machine Learning</td>
+    <td class="tg-yw4l">Standford university </td>
+    <td class="tg-yw4l"><a href="http://cs229.stanford.edu/">Website<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Machine Learning | Andrew Ng </td>
+    <td class="tg-yw4l">Standford university </td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN">Website<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Machine Learning Course In Python </td>
+    <td class="tg-yw4l">By Greg Hogg's </td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLKYEe2WisBTFp37hFFdGg_VoLLamLYiL8">Website<a></td>
+  </tr>
+  
+  
   
   
 
