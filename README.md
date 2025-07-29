@@ -1,5 +1,8 @@
 # 🎓 Popular list of Data Science Related Courses and Notebooks
 
+CS229 notes
+https://www.linkedin.com/feed/update/urn:li:activity:7344933734212653056/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7344933734212653056%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
 ## Machine learning
 <table class="tg">
   <tr>
